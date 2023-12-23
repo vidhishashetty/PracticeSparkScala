@@ -1,4 +1,3 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/D:/Training/Spark-Scala/PractiseScalaSpark/project/"), "practisescalaspark-build")...
-[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
-[debug] Done updating ProjectRef(uri("file:/D:/Training/Spark-Scala/PractiseScalaSpark/project/"), "practisescalaspark-build")
+[debug] Updating ProjectRef(uri("file:/D:/Training/Spark-Scala/PracticeScalaSpark/project/"), "practicescalaspark-build")...
+[debug] Done updating ProjectRef(uri("file:/D:/Training/Spark-Scala/PracticeScalaSpark/project/"), "practicescalaspark-build")
